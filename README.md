@@ -55,6 +55,4 @@ git push origin main
 
 > Documentar es parte del trabajo, no un extra al final.
 
-```markdown
 - [Guia del proyecto](docs/GUIA.md)
-```
